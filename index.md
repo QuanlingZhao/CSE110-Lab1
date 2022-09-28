@@ -1,5 +1,5 @@
 
-![Course Image](https://en.wikipedia.org/wiki/University_of_California,_San_Diego#/media/File:University_of_California,_San_Diego_seal.svg)
+![Course Image](./UCSD_Logo.png)
 
 # CSE 110 FA22 Personal Page
 

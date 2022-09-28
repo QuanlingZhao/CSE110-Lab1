@@ -13,7 +13,7 @@ Here is the first Python Program I worte few years age.
 print("Hello World")
 ```
 
-This is link to my school [UCSD](https://pages.github.com/).
+This is link to my school [UCSD](https://ucsd.edu/).
 
 [Here is an awsome paper I am currently reading](./papers/RandomFeaturesforLarge-ScaleKernelMachines.pdf)
 

@@ -16,7 +16,7 @@ print("Hello World")
 
 This is link to my school [UCSD](https://pages.github.com/).
 
-[Here is an awsome paper I am currently reading](papers/RandomFeaturesforLarge-ScaleKernelMachines.md)
+[Here is an awsome paper I am currently reading](./papers/RandomFeaturesforLarge-ScaleKernelMachines.pdf)
 
 List of Classes I am currently/Plan on taking:
 - CSE151B

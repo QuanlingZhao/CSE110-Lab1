@@ -1,5 +1,4 @@
-
-![Course Image](./UCSD_Logo.png){ width=20% }
+<img src="./UCSD_Logo.png" alt="drawing" width="200"/>
 
 # CSE 110 FA22 Personal Page
 
